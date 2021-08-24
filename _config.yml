@@ -9,8 +9,7 @@ name: Scattered notes
 description: Learning records
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: # https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: https://github.com/Record-learning-content/Record-learning-content.github.io/blob/master/images/jekyll-logo.png
 #
 # Flags below are optional
 #
@@ -21,7 +20,7 @@ footer-links:
   email: 17610588786@163.com
   facebook:
   flickr:
-  github: https://github.com/Garderns/garderns.github.io
+  github: https://github.com/Record-learning-content/Record-learning-content.github.io
   instagram:
   linkedin:
   pinterest:
